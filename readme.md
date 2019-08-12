@@ -17,3 +17,5 @@
 * [WebRTC - part2（用你的摄像头来传输视频）](https://github.com/gong12339/vic-blog/issues/16)
 * [让异步队列按照调用顺序同步返回 ](https://github.com/gong12339/vic-blog/issues/17)
 * [取消chrome最小字体12px的限制](https://github.com/gong12339/vic-blog/issues/18)
+* [IOS的渐变色的问题](https://github.com/gong12339/vic-blog/issues/19)
+* [使用状态模式开发一个播放列表](https://github.com/gong12339/vic-blog/issues/20)
